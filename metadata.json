@@ -1,0 +1,6 @@
+{
+  "name": "StudyCircle - Pomodoro Timer",
+  "description": "Minimalist Pomodoro study timer with customizable intervals, detailed analytics, study subjects, and dark mode for night focus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
